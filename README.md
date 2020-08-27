@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+to install all dependencies in package.js you need use 'yarn' command or 'npm install'
+
+I recomandate 'yarn'
+
+## `yarn`
+
+or
+
+## `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
